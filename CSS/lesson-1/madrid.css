@@ -1,0 +1,31 @@
+body {
+  background-color: aquamarine;
+}
+
+h2 {
+  color: red;
+}
+
+.subtitle {
+  color: blue;
+}
+
+#p-tag {
+  background-color: bisque;
+}
+
+li:nth-child(1){
+    color: red;
+}
+
+p:only-child{
+    color: red;
+}
+
+a:link{
+    color: rgb(227, 231, 19);
+}
+
+a:visited{
+    color: black;
+}
